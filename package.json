@@ -1,0 +1,7 @@
+{
+  "name": "distributed-transactional-car-booking",
+  "private": true,
+  "workspaces": [
+    "apps/booking-api"
+  ]
+}

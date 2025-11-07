@@ -1,0 +1,5 @@
+{
+  "monorepo": true,
+  "root": "apps/booking-api",
+  "sourceRoot": "apps/booking-api/src"
+}
